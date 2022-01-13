@@ -40,4 +40,5 @@ Image & Facts is a bot which can show you images of cute animals and also some a
 ## » Want to contribute
 
 Contribute on Patreon
+
 Go Here - https://patreon.com/ashutoshswamy
