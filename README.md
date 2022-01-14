@@ -39,9 +39,7 @@ Image & Facts is a bot which can show you images of cute animals and also some a
 
 ## » Examples
 
-Image command
 <img src="https://i.ibb.co/TBPNjFs/Example1.png">
-Fact command
 <img src="https://i.ibb.co/Jv62wkB/Example2.png">
 
 ## » Want to contribute
